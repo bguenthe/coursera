@@ -1,0 +1,7 @@
+0.) FIX DEN LIST FEHLER. wie ist es mit der gleichheit der list elemente?
+1.) background sound
+2.) splash screen und game over logig mit reset aller parameter
+3.) explosionen sind aber optional
+4.) geschwindigkeit des schusses und allgemeine tweaks
+5.) umbauen auf richtige objekte
+6.) umbauen des sound modules
